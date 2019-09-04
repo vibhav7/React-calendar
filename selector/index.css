@@ -1,0 +1,30 @@
+.year-table{
+    display: table;
+    width: 50%;
+}
+.year-table-cell{
+    display: table-cell;
+    padding-left: 10px;
+    width: 25%;
+}
+
+.month-table{
+    display: table;
+    width: 50%;
+}
+
+.month-table-cell{
+    display: table-cell;
+    padding-left: 10px;
+    width: 25%;
+}
+button{
+    background-color: tomato;
+    color: wheat;
+    font-size: 16px;
+    width: 150px;
+}
+button:hover{
+    background-color: seagreen;
+    color: black;
+}

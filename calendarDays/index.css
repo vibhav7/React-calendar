@@ -1,0 +1,24 @@
+.date-table{
+    display: table;
+    width: 40%;
+}
+.date-table-cell-weeks{
+    background-color: #46211A;
+    color: whitesmoke;
+    display: table-cell;
+    border: 1px solid red;
+    border-radius: 25%;
+    vertical-align: middle;
+    text-align: center;
+}
+.date-table-cell{
+    display: table-cell;
+    border: 1px solid red;
+    border-radius: 25%;
+    vertical-align: middle;
+    text-align: center;
+}
+.date-table-row{
+    display: table-row;
+    background-color: #aaaaaa;
+}
